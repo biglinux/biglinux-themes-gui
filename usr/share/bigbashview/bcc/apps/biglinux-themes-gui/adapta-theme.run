@@ -1,0 +1,5 @@
+biglinux-themes.sh --apply adapta
+
+echo "adapta" > "$HOME/.big_desktop_theme"
+
+kdialog --msgbox "Tema aplicado!"

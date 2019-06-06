@@ -1,0 +1,5 @@
+biglinux-themes.sh --apply dark
+
+echo "dark" > "$HOME/.big_desktop_theme"
+
+kdialog --msgbox "Tema aplicado!"

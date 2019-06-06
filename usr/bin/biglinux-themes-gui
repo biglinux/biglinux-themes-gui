@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+bigbashview /usr/share/bigbashview/bcc/apps/biglinux-themes-gui/index.sh.htm -s 1050x600 -i /usr/share/bigbashview/bcc/apps/biglinux-themes-gui/logo.png
