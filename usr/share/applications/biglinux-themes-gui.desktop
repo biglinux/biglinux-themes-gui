@@ -1,9 +1,10 @@
 [Desktop Entry]
 Categories=Settings;
 Exec=biglinux-themes-gui
-Icon=preferences-system-windows-effect-trackmouse
-Name[pt_BR]=Configurar o tema do sistema
-Name=Configurar o tema do sistema
+Icon=/usr/share/bigbashview/bcc/apps/biglinux-themes-gui/big-plasma-theme.png
+Name[pt]=Aparência, desempenho e usabilidade
+Name[es]=Apariencia, rendimiento y usabilidad
+Name=Appearance, performance and usability
 StartupNotify=true
 Terminal=false
 Type=Application

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;
+Exec=krunner & krunner
+Icon=search
+MimeType=
+Name=Run command
+Name[pt]=Executar
+Name[pt_BR]=Executar
+OnlyShowIn=KDE;
+StartupNotify=false
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
