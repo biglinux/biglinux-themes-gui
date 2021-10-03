@@ -1,13 +1,21 @@
 [Desktop Entry]
 Categories=Qt;KDE;Utility;
-Exec=krunner & krunner
-Icon=search
+Comment[pt_BR]=
+Comment=
+Exec=krunner
+GenericName[pt_BR]=
+GenericName=
+Icon=/usr/share/pixmaps/big-rocket.png
 MimeType=
-Name=Run command
-Name[pt]=Executar
 Name[pt_BR]=Executar
+Name=Executar
 OnlyShowIn=KDE;
+Path=
 StartupNotify=false
 Terminal=false
+TerminalOptions=
 Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
 X-KDE-SubstituteUID=false
+X-KDE-Username=
