@@ -9,7 +9,6 @@ url="https://github.com/biglinux/biglinux-themes-gui"
 pkgdesc="Interface to change theme in BigLinux"
 depends=('biglinux-session-and-themes' 'bigbashview' 'breeze-gtk' 'libdbusmenu-gtk2' 'plasma-appsmenu-biglinux')
 # 'plasma-applet-window-buttons'
-optdepends=('plasma-framework5' 'plasma-framework')
 conflicts=('biglinux-themes' 'biglinux-multi-kde')
 source=("git+https://github.com/biglinux/biglinux-themes-gui.git")
 md5sums=(SKIP)
