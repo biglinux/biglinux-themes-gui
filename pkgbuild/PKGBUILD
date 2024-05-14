@@ -7,15 +7,15 @@ arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/biglinux-themes-gui"
 pkgdesc="Interface to change theme in BigLinux"
-depends=('biglinux-session-and-themes' 'bigbashview' 'breeze-gtk' 'libdbusmenu-gtk2' 'plasma-appsmenu-biglinux')
+depends=('biglinux-session-and-themes')
 # 'plasma-applet-window-buttons'
 conflicts=('biglinux-themes' 'biglinux-multi-kde')
 source=("git+https://github.com/biglinux/biglinux-themes-gui.git")
 md5sums=(SKIP)
 
-package() {
-    cp -r "${srcdir}/biglinux-themes-gui/usr/" "${pkgdir}/"
-    rm -f "${pkgdir}/biglinux-themes-gui/usr/share/plasma/desktoptheme/default/icons/start.svgz"
-}
+#package() {
+#    cp -r "${srcdir}/biglinux-themes-gui/usr/" "${pkgdir}/"
+#    rm -f "${pkgdir}/biglinux-themes-gui/usr/share/plasma/desktoptheme/default/icons/start.svgz"
+#}
 
 
