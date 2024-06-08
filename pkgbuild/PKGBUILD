@@ -7,15 +7,28 @@ arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/biglinux-themes-gui"
 pkgdesc="Interface to change theme in BigLinux"
-depends=('biglinux-session-and-themes')
-# 'plasma-applet-window-buttons'
-conflicts=('biglinux-themes' 'biglinux-multi-kde')
+depends=('biglinux-session-and-themes' 'bigbashview')
 source=("git+https://github.com/biglinux/biglinux-themes-gui.git")
 md5sums=(SKIP)
 
-#package() {
-#    cp -r "${srcdir}/biglinux-themes-gui/usr/" "${pkgdir}/"
-#    rm -f "${pkgdir}/biglinux-themes-gui/usr/share/plasma/desktoptheme/default/icons/start.svgz"
-#}
+package() {
+    # Verify default folder
+    if [ -d "${srcdir}/${pkgname}/${pkgname}" ]; then
+        InternalDir="${srcdir}/${pkgname}/${pkgname}"
+    else
+        InternalDir="${srcdir}/${pkgname}"
+    fi
 
+    # Copy files
+    if [ -d "${InternalDir}/usr" ]; then
+        cp -r "${InternalDir}/usr" "${pkgdir}/"
+    fi
 
+    if [ -d "${InternalDir}/etc" ]; then
+        cp -r "${InternalDir}/etc" "${pkgdir}/"
+    fi
+
+    if [ -d "${InternalDir}/opt" ]; then
+        cp -r "${InternalDir}/opt" "${pkgdir}/"
+    fi
+}
