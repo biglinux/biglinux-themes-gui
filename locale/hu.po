@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-themes-gui package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-themes-gui\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "BigLinux Themes"
+msgstr "BigLinux témák"
+
+msgid "Desktop"
+msgstr "Asztali"
+
+msgid "Theme"
+msgstr "Téma"
+
+msgid "Configuration"
+msgstr "Konfiguráció"
+
+msgid ""
+"You've used this desktop before, do you want to restore your customization or use the original "
+"configuration?"
+msgstr ""
+"Ezt az asztali gépet már használtad korábban. Szeretnéd visszaállítani a testreszabásaidat, vagy "
+"inkább az eredeti beállításokat használnád?"
+
+msgid "Original"
+msgstr "Eredeti"
+
+msgid "Restore"
+msgstr "Visszaállítás"
+
+msgid "Confirm Theme Change"
+msgstr "Téma változtatásának megerősítése"
+
+msgid "Do you want to apply the selected theme again?"
+msgstr "Szeretné újra alkalmazni a kiválasztott témát?"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Confirm Desktop Change"
+msgstr "Asztali Változtatás Megerősítése"
+
+msgid "Do you want to reapply a clean configuration of that desktop?"
+msgstr "Szeretné újra alkalmazni a tiszta konfigurációt az asztali gépen?"
+
+msgid "Applying"
+msgstr "Alkalmazás"
+
+msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
+msgstr ""
+"A beállítások megváltoztak. Az egész rendszer alkalmazásához jelentkezzen ki, majd jelentkezzen be "
+"újra."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Post update adjustments"
+msgstr "Frissítés utáni beállítások"
+
+msgid ""
+"A major update has been applied, making various desktop settings incompatible. Proceed to apply new "
+"settings."
+msgstr ""
+"Egy jelentős frissítés történt, amely miatt az asztali beállítások inkompatibilisek lehetnek. "
+"Folytassa az új beállítások alkalmazását."
+
+msgid ""
+"If you have advanced knowledge of the system and prefer to make the adjustments manually, do not "
+"proceed."
+msgstr ""
+"Ha haladó ismerete van a rendszernek, és inkább kézzel szeretné elvégezni a beállításokat, ne "
+"folytassa."
+
+msgid ""
+"Continue\n"
+"            "
+msgstr "Folytatás"
+
+msgid "Select a new theme configuration:"
+msgstr "Válasszon új téma konfigurációt:"
+
+msgid ""
+"Choose a desktop configuration. This will also remove customizations made in Plasma to apply a new "
+"compatible configuration:"
+msgstr ""
+"Válasszon asztali konfigurációt. Ez törölni fogja a Plasmában végzett egyedi testreszabásokat, hogy "
+"alkalmazni lehessen egy új kompatibilis konfigurációt:"
+
+msgid "Completed."
+msgstr "Befejezve."
+
+msgid ""
+"Reboot now!\n"
+"                    "
+msgstr "Újraindítás most!"
+
+msgid "Configuration Complete"
+msgstr "Konfiguráció befejezve"
+
+msgid "Your theme and desktop have been configured successfully."
+msgstr "A téma és az asztal sikeresen be lett állítva."

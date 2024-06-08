@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-themes-gui package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-themes-gui\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#
+msgid "BigLinux Themes"
+msgstr "BigLinux Themes"
+
+#
+msgid "Desktop"
+msgstr "Desktop"
+
+#
+msgid "Theme"
+msgstr "Theme"
+
+#
+msgid "Configuration"
+msgstr "Configuration"
+
+#
+msgid ""
+"You've used this desktop before, do you want to restore your customization "
+"or use the original configuration?"
+msgstr ""
+"You've used this desktop before, do you want to restore your customization "
+"or use the original configuration?"
+
+#
+msgid "Original"
+msgstr "Original"
+
+#
+msgid "Restore"
+msgstr "Restore"
+
+#
+msgid "Confirm Theme Change"
+msgstr "Confirm Theme Change"
+
+#
+msgid "Do you want to apply the selected theme again?"
+msgstr "Do you want to apply the selected theme again?"
+
+#
+msgid "Yes"
+msgstr "Yes"
+
+#
+msgid "No"
+msgstr "No"
+
+#
+msgid "Confirm Desktop Change"
+msgstr "Confirm Desktop Change"
+
+#
+msgid "Do you want to reapply a clean configuration of that desktop?"
+msgstr "Do you want to reapply a clean configuration of that desktop?"
+
+#
+msgid "Applying"
+msgstr "Applying"
+
+#
+msgid ""
+"The settings have been changed. To apply them throughout the system, log off "
+"and log in again."
+msgstr ""
+"The settings have been changed. To apply them throughout the system, log off "
+"and log in again."
+
+#
+msgid "OK"
+msgstr "OK"
+
+#
+msgid "Post update adjustments"
+msgstr "Post update adjustments"
+
+#
+msgid ""
+"A major update has been applied, making various desktop settings "
+"incompatible. Proceed to apply new settings."
+msgstr ""
+"A major update has been applied, making various desktop settings "
+"incompatible. Proceed to apply new settings."
+
+#
+msgid ""
+"If you have advanced knowledge of the system and prefer to make the "
+"adjustments manually, do not proceed."
+msgstr ""
+"If you have advanced knowledge of the system and prefer to make the "
+"adjustments manually, do not proceed."
+
+#
+msgid ""
+"Continue\n"
+"            "
+msgstr ""
+"Continue\n"
+"            "
+
+#
+msgid "Select a new theme configuration:"
+msgstr "Select a new theme configuration:"
+
+#
+msgid ""
+"Choose a desktop configuration. This will also remove customizations made in "
+"Plasma to apply a new compatible configuration:"
+msgstr ""
+"Choose a desktop configuration. This will also remove customizations made in "
+"Plasma to apply a new compatible configuration:"
+
+#
+msgid "Completed."
+msgstr "Completed."
+
+#
+msgid ""
+"Reboot now!\n"
+"                    "
+msgstr ""
+"Reboot now!\n"
+"                    "
+
+#
+msgid "Configuration Complete"
+msgstr "Configuration Complete"
+
+#
+msgid "Your theme and desktop have been configured successfully."
+msgstr "Your theme and desktop have been configured successfully."

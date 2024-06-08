@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-themes-gui package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-themes-gui\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "BigLinux Themes"
+msgstr "Теми BigLinux"
+
+msgid "Desktop"
+msgstr "Робочий стіл"
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Configuration"
+msgstr "Налаштування"
+
+msgid ""
+"You've used this desktop before, do you want to restore your customization or use the original "
+"configuration?"
+msgstr ""
+"Ви вже використовували цей робочий стіл раніше. Хочете відновити вашу настроювання або використати "
+"оригінальну конфігурацію?"
+
+msgid "Original"
+msgstr "Оригінал"
+
+msgid "Restore"
+msgstr "Відновити"
+
+msgid "Confirm Theme Change"
+msgstr "Підтвердити зміну теми"
+
+msgid "Do you want to apply the selected theme again?"
+msgstr "Чи бажаєте ви застосувати обраний тему знову?"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Confirm Desktop Change"
+msgstr "Підтвердити зміну робочого столу"
+
+msgid "Do you want to reapply a clean configuration of that desktop?"
+msgstr "Чи бажаєте ви застосувати чисту конфігурацію цього робочого столу знову?"
+
+msgid "Applying"
+msgstr "Застосування"
+
+msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
+msgstr ""
+"Налаштування було змінено. Щоб застосувати їх у всій системі, вийдіть з облікового запису та "
+"увійдіть знову."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Post update adjustments"
+msgstr "Налаштування після оновлення"
+
+msgid ""
+"A major update has been applied, making various desktop settings incompatible. Proceed to apply new "
+"settings."
+msgstr ""
+"Виконано значне оновлення, яке зробило різні налаштування робочого столу несумісними. Продовжити "
+"застосовувати нові налаштування."
+
+msgid ""
+"If you have advanced knowledge of the system and prefer to make the adjustments manually, do not "
+"proceed."
+msgstr "Якщо у вас є високі знання системи і ви віддаєте перевагу вручному налаштуванню, не продовжуйте."
+
+msgid ""
+"Continue\n"
+"            "
+msgstr "Продовжити"
+
+msgid "Select a new theme configuration:"
+msgstr "Виберіть нову конфігурацію теми:"
+
+msgid ""
+"Choose a desktop configuration. This will also remove customizations made in Plasma to apply a new "
+"compatible configuration:"
+msgstr ""
+"Виберіть конфігурацію робочого столу. Це також видалить налаштування, зроблені в Plasma, для "
+"застосування нової сумісної конфігурації:"
+
+msgid "Completed."
+msgstr "Завершено."
+
+msgid ""
+"Reboot now!\n"
+"                    "
+msgstr "Перезавантажити зараз!"
+
+msgid "Configuration Complete"
+msgstr "Конфігурація завершена"
+
+msgid "Your theme and desktop have been configured successfully."
+msgstr "Ваша тема та робочий стіл були успішно налаштовані."

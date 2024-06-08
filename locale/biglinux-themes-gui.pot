@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-themes-gui package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: biglinux-themes-gui\n"
+        "Report-Msgid-Bugs-To: \n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#
+msgid   "BigLinux Themes"
+msgstr  ""
+
+#
+msgid   "Desktop"
+msgstr  ""
+
+#
+msgid   "Theme"
+msgstr  ""
+
+#
+msgid   "Configuration"
+msgstr  ""
+
+#
+msgid   "You've used this desktop before, do you want to restore your "
+        "customization or use the original configuration?"
+msgstr  ""
+
+#
+msgid   "Original"
+msgstr  ""
+
+#
+msgid   "Restore"
+msgstr  ""
+
+#
+msgid   "Confirm Theme Change"
+msgstr  ""
+
+#
+msgid   "Do you want to apply the selected theme again?"
+msgstr  ""
+
+#
+msgid   "Yes"
+msgstr  ""
+
+#
+msgid   "No"
+msgstr  ""
+
+#
+msgid   "Confirm Desktop Change"
+msgstr  ""
+
+#
+msgid   "Do you want to reapply a clean configuration of that desktop?"
+msgstr  ""
+
+#
+msgid   "Applying"
+msgstr  ""
+
+#
+msgid   "The settings have been changed. To apply them throughout the system, "
+        "log off and log in again."
+msgstr  ""
+
+#
+msgid   "OK"
+msgstr  ""
+
+#
+msgid   "Post update adjustments"
+msgstr  ""
+
+#
+msgid   "A major update has been applied, making various desktop settings "
+        "incompatible. Proceed to apply new settings."
+msgstr  ""
+
+#
+msgid   "If you have advanced knowledge of the system and prefer to make the "
+        "adjustments manually, do not proceed."
+msgstr  ""
+
+#
+msgid   "Continue\n"
+        "            "
+msgstr  ""
+
+#
+msgid   "Select a new theme configuration:"
+msgstr  ""
+
+#
+msgid   "Choose a desktop configuration. This will also remove customizations "
+        "made in Plasma to apply a new compatible configuration:"
+msgstr  ""
+
+#
+msgid   "Completed."
+msgstr  ""
+
+#
+msgid   "Reboot now!\n"
+        "                    "
+msgstr  ""
+
+#
+msgid   "Configuration Complete"
+msgstr  ""
+
+#
+msgid   "Your theme and desktop have been configured successfully."
+msgstr  ""
