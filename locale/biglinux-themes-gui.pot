@@ -23,9 +23,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Desktop"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -39,9 +43,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Configuration"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -56,9 +64,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Original"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -72,9 +84,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Confirm Theme Change"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -88,9 +104,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Yes"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -104,9 +124,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Confirm Desktop Change"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -120,9 +144,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Applying"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -137,6 +165,8 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "OK"
 msgstr  ""
 
@@ -145,9 +175,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Post update adjustments"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -162,10 +196,14 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "If you have advanced knowledge of the system and prefer to make the "
         "adjustments manually, do not proceed."
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -180,9 +218,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Select a new theme configuration:"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -197,9 +239,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Completed."
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -214,9 +260,13 @@ msgstr  ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid   "Configuration Complete"
 msgstr  ""
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
