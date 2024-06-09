@@ -2,12 +2,9 @@
 
 if [[ "$XDG_CURRENT_DESKTOP" == "GNOME" ]]; then
 
-echo "classic
-new
-modern
-kunity
-nextg
-vanilla"
+echo "biggnome
+gnome-unity
+gnome-vanilla"
 
 else
 
