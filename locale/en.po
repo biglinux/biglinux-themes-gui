@@ -32,9 +32,13 @@ msgstr "BigLinux Themes"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "Desktop"
 msgstr "Desktop"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -64,9 +68,13 @@ msgstr "Theme"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "Configuration"
 msgstr "Configuration"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -87,6 +95,8 @@ msgstr ""
 "You've used this desktop before, do you want to restore your customization "
 "or use the original configuration?"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -116,9 +126,13 @@ msgstr "Original"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "Restore"
 msgstr "Restore"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -148,9 +162,13 @@ msgstr "Confirm Theme Change"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "Do you want to apply the selected theme again?"
 msgstr "Do you want to apply the selected theme again?"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -180,9 +198,13 @@ msgstr "Yes"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "No"
 msgstr "No"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -212,9 +234,13 @@ msgstr "Confirm Desktop Change"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "Do you want to reapply a clean configuration of that desktop?"
 msgstr "Do you want to reapply a clean configuration of that desktop?"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -244,6 +270,8 @@ msgstr "Applying"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid ""
 "The settings have been changed. To apply them throughout the system, log off "
 "and log in again."
@@ -251,6 +279,8 @@ msgstr ""
 "The settings have been changed. To apply them throughout the system, log off "
 "and log in again."
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -280,6 +310,8 @@ msgstr "OK"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "Post update adjustments"
 msgstr "Post update adjustments"
 
@@ -296,6 +328,8 @@ msgstr "Post update adjustments"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid ""
 "A major update has been applied, making various desktop settings "
 "incompatible. Proceed to apply new settings."
@@ -303,6 +337,8 @@ msgstr ""
 "A major update has been applied, making various desktop settings "
 "incompatible. Proceed to apply new settings."
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -336,6 +372,8 @@ msgstr ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid ""
 "Continue\n"
 "            "
@@ -343,6 +381,8 @@ msgstr ""
 "Continue\n"
 "            "
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -372,6 +412,8 @@ msgstr "Select a new theme configuration:"
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid ""
 "Choose a desktop configuration. This will also remove customizations made in "
 "Plasma to apply a new compatible configuration:"
@@ -379,6 +421,8 @@ msgstr ""
 "Choose a desktop configuration. This will also remove customizations made in "
 "Plasma to apply a new compatible configuration:"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
@@ -408,6 +452,8 @@ msgstr "Completed."
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid ""
 "Reboot now!\n"
 "                    "
@@ -428,9 +474,13 @@ msgstr ""
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
+#
 msgid "Configuration Complete"
 msgstr "Configuration Complete"
 
+#
+# #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
 # #-#-#-#-#  biglinux-themes-gui-bash.pot (biglinux-themes-gui)  #-#-#-#-#
 #
