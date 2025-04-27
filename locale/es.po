@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-themes-gui package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-themes-gui\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+#: NEEDS WORK
+msgid "Click to switch to the {} desktop environment"
+msgstr "Haga clic para cambiar al entorno de escritorio {}"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+#: NEEDS WORK
+msgid "Click to apply the {} theme"
+msgstr "Haz clic para aplicar el tema {}"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
+#: NEEDS WORK
+msgid "BigLinux Themes"
+msgstr "Temas de BigLinux"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 87
+#: NEEDS WORK
+msgid "Themes"
+msgstr "Temas"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 123
+#: NEEDS WORK
+msgid "Desktop"
+msgstr "Escritorio"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 286
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
+#: NEEDS WORK
+msgid "Confirm Theme Change"
+msgstr "Confirmar cambio de tema"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 287
+#: NEEDS WORK
+msgid "Do you want to apply the selected theme again?"
+msgstr "¿Deseas aplicar el tema seleccionado nuevamente?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 289
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 305
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 328
+#: NEEDS WORK
+msgid "No"
+msgstr "No"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 290
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 306
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 329
+#: NEEDS WORK
+msgid "Yes"
+msgstr "Sí"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
+#: NEEDS WORK
+msgid "Do you want to change the theme to {}?"
+msgstr "¿Quieres cambiar el tema a {}?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 325
+#: NEEDS WORK
+msgid "Confirm Desktop Change"
+msgstr "Confirmar cambio de escritorio"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 326
+#: NEEDS WORK
+msgid "Do you want to reapply a clean configuration of that desktop?"
+msgstr "¿Quieres reaplicar una configuración limpia de ese escritorio?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+#: NEEDS WORK
+msgid "Configuration"
+msgstr "Configuración"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 346
+#: NEEDS WORK
+msgid ""
+"You've used this desktop before, do you want to restore your customization or use the original "
+"configuration?"
+msgstr ""
+"Has utilizado este escritorio antes, ¿quieres restaurar tu personalización o usar la configuración "
+"original?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
+#: NEEDS WORK
+msgid "Cancel"
+msgstr "Cancelar"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
+#: NEEDS WORK
+msgid "Original"
+msgstr "Original"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 351
+#: NEEDS WORK
+#: NEEDS WORK
+msgid "Restore"
+msgstr "Restaurar"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 552
+#: NEEDS WORK
+msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
+msgstr ""
+"Se han cambiado la configuración. Para aplicarlas en todo el sistema, cierra sesión y vuelve a "
+"iniciar sesión."
