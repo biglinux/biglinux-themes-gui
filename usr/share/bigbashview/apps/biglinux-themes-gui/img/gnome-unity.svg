@@ -1,160 +1,145 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   id="svg21"
    data-name="Layer 1"
    version="1.1"
-   viewBox="0 0 299 203.97"
-   id="svg21"
+   viewBox="0 0 299 203.84"
    sodipodi:docname="gnome-unity.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   width="598"
+   height="407.67999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview21"
+     id="namedview1"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.5198203"
-     inkscape:cx="95.840169"
-     inkscape:cy="129.17588"
+     inkscape:zoom="3.0167224"
+     inkscape:cx="149.5"
+     inkscape:cy="102.09756"
      inkscape:window-width="1920"
-     inkscape:window-height="1048"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g21"
-     showguides="true" />
+     inkscape:current-layer="g21" />
   <defs
      id="defs1">
-    <rect
-       x="-10.885427"
-       y="-11.379491"
-       width="48.788853"
-       height="50.496348"
-       id="rect21" />
     <style
-       id="style1">.cls-1{fill:none;}.cls-1,.cls-2{stroke:#4374ba;}.cls-1,.cls-2,.cls-4{stroke-miterlimit:10;stroke-width:2px;}.cls-2,.cls-8{fill:#4474ba;}.cls-3,.cls-4{fill:#fff;}.cls-4{stroke:#fff;}.cls-5{font-size:24px;fill:#4374ba;font-family:Lato-Bold, Lato;font-weight:700;letter-spacing:-0.02em;}.cls-6{letter-spacing:-0.01em;}.cls-7{letter-spacing:-0.02em;}</style>
+       id="style1">.cls-1,.cls-4{fill:none;stroke:#4374ba;stroke-miterlimit:10;stroke-width:2px}.cls-4{fill:#fff;stroke:#fff}</style>
+    <path
+       id="rect21"
+       d="M -10.885,-11.379 H 37.904 V 39.117 H -10.885 Z" />
   </defs>
   <g
-     transform="translate(396.54 -38.221)"
-     id="g21">
+     id="g21"
+     transform="translate(396.54001,-38.221001)">
     <rect
-       class="cls-1"
-       x="-395.54001"
-       y="39.221001"
+       id="rect1"
        width="297"
        height="201.84"
-       rx="5"
+       x="-395.54001"
+       y="39.221001"
        fill="none"
-       id="rect1" />
+       class="cls-1"
+       rx="5" />
     <rect
-       class="cls-2"
-       x="56.610054"
-       y="374.40839"
-       width="180.09044"
-       height="16.814589"
-       rx="8.4072943"
-       fill="#4474ba"
        id="rect3"
-       ry="8.4072943"
+       width="180.09"
+       height="16.815001"
+       x="56.610001"
+       y="374.40799"
+       rx="8.4069996"
+       ry="8.4069996"
+       style="fill:#4474ba;stroke:#4374ba;stroke-width:2px;stroke-miterlimit:10"
        transform="rotate(90)" />
     <rect
-       class="cls-3"
-       x="61.248306"
-       y="375.85065"
+       id="rect4"
        width="13.94"
        height="13.94"
+       x="61.248001"
+       y="375.85101"
        rx="4"
-       fill="#fff"
-       id="rect4"
-       style="stroke:#4374ba;stroke-width:2px;stroke-miterlimit:10"
+       style="fill:#ffffff;stroke:#4374ba;stroke-width:2px;stroke-miterlimit:10"
        transform="rotate(90)" />
     <rect
-       class="cls-4"
-       x="220.06828"
-       y="377.73065"
-       width="10"
-       height="10"
-       rx="2"
        id="rect6"
-       transform="rotate(90)" />
-    <rect
-       class="cls-4"
-       x="124.06828"
-       y="377.73065"
        width="10"
        height="10"
+       x="220.06799"
+       y="377.73099"
+       class="cls-4"
        rx="2"
+       transform="rotate(90)" />
+    <rect
        id="rect7"
-       transform="rotate(90)" />
-    <rect
-       class="cls-4"
-       x="104.06828"
-       y="377.73065"
        width="10"
        height="10"
+       x="124.068"
+       y="377.73099"
+       class="cls-4"
        rx="2"
+       transform="rotate(90)" />
+    <rect
        id="rect8"
-       transform="rotate(90)" />
-    <rect
-       class="cls-4"
-       x="84.068291"
-       y="377.73065"
        width="10"
        height="10"
+       x="104.068"
+       y="377.73099"
+       class="cls-4"
        rx="2"
-       id="rect9"
        transform="rotate(90)" />
     <rect
-       class="cls-1"
-       x="-391.54001"
-       y="43.317509"
-       width="289.42065"
-       height="9.2513399"
-       rx="4.62567"
-       id="rect10"
-       ry="4.62567" />
-    <text
-       class="cls-5"
-       x="-204.82556"
-       y="146.96109"
-       fill="#4374ba"
-       font-family="Lato-Bold, Lato"
-       font-size="24px"
-       font-weight="700"
-       letter-spacing="-.02em"
-       stroke-miterlimit="10"
-       stroke-width="2px"
-       id="text20">G-Unity</text>
-    <text
-       xml:space="preserve"
-       transform="translate(-396.54,38.221)"
-       id="text21"
-       style="font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21);display:inline" />
+       id="rect9"
+       width="10"
+       height="10"
+       x="84.068001"
+       y="377.73099"
+       class="cls-4"
+       rx="2"
+       transform="rotate(90)" />
     <rect
+       id="rect10"
+       width="289.42099"
+       height="9.2510004"
+       x="-391.54001"
+       y="43.318001"
        class="cls-1"
-       x="-148.72731"
-       y="45.169384"
-       width="44.279133"
-       height="5.5475864"
-       rx="2.7737932"
+       rx="4.6259999"
+       ry="4.6259999" />
+    <text
+       id="text20"
+       x="-199.66795"
+       y="147.09401"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       style="font-weight:700;font-size:24px;font-family:Lato-Bold, Lato;letter-spacing:-0.02em;fill:#4374ba">G-Unity</text>
+    <rect
        id="rect23"
-       ry="2.7737932"
+       width="44.278999"
+       height="5.5479999"
+       x="-148.72701"
+       y="45.168999"
+       class="cls-1"
+       rx="2.7739999"
+       ry="2.7739999"
        style="fill:#4474ba;fill-opacity:1;stroke:none" />
     <rect
-       class="cls-1"
-       x="-388.72729"
-       y="45.169384"
-       width="8.2433262"
-       height="5.5475864"
-       rx="2.759516"
        id="rect24"
-       ry="2.759516"
+       width="8.243"
+       height="5.5479999"
+       x="-388.72699"
+       y="45.168999"
+       class="cls-1"
+       rx="2.76"
+       ry="2.76"
        style="fill:#4474ba;fill-opacity:1;stroke:none" />
   </g>
 </svg>
