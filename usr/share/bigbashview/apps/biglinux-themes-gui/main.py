@@ -1,39 +1,46 @@
 #!/usr/bin/env python3.13
 """
-BigLinux WebApps Manager
-A GTK4 application for managing web applications in BigLinux.
+BigLinux Themes GUI
+A GTK4 application for managing BigLinux themes and desktop configurations.
 """
 
 import sys
 import gi
+from gi.repository import GLib
+
 
 gi.require_version("Gtk", "4.0")
 gi.require_version("Adw", "1")
+from gi.repository import Gtk, Adw, Gio
 
-from gi.repository import GLib
+# Import the translation function
+from i18n import _
+from window import ThemesWindow
 
-# Import from our utility to ensure proper initialization
-from webapps.application import WebAppsApplication
+
+class BigLinuxThemesApplication(Adw.Application):
+    """Main application class for BigLinux Themes GUI."""
+
+    def __init__(self):
+        """Initialize the application."""
+        super().__init__(application_id="big-themes-gui")
+        self.connect("activate", self.on_activate)
+
+    def on_activate(self, app):
+        """Create and show the main window when the application is activated."""
+        # Set application icon
+        GLib.set_prgname("big-themes-gui")
+
+        # Create and show main window
+        window = ThemesWindow(application=app)
+        window.present()
 
 
 def main():
-    """Main function to start the application."""
-    app = WebAppsApplication()
-
-    # Set application ID for proper desktop integration
-    app.set_application_id("br.com.biglinux.webapps")
-
-    # Set program name for window manager class
-    GLib.set_prgname("big-webapps-gui")
-
-    try:
-        # For GTK4 applications
-        app.set_icon_name("big-webapps")
-    except (AttributeError, TypeError):
-        pass
-
+    """Start the application."""
+    app = BigLinuxThemesApplication()
     return app.run(sys.argv)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
