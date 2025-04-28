@@ -1,8 +1,9 @@
 # BigLinux Themes GUI
 
+![image](https://github.com/user-attachments/assets/fad5ecad-708a-4434-909a-6ff8e1d2a4ac)
+
+
 A modern GTK4/Libadwaita application for managing themes and desktop configurations in BigLinux.
-
-
 
 ## Description
 
