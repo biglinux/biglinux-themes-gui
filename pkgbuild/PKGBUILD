@@ -7,7 +7,7 @@ arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/biglinux-themes-gui"
 pkgdesc="Interface to change theme in BigLinux"
-depends=('bigbashview')
+depends=('python-gobject')
 source=("git+https://github.com/biglinux/biglinux-themes-gui.git")
 md5sums=(SKIP)
 
