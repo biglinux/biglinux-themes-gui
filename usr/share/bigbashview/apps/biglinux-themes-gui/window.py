@@ -79,15 +79,11 @@ class ThemesWindow(Adw.ApplicationWindow):
         # Create sidebar content with header
         theme_toolbar_view = Adw.ToolbarView()
 
-        # Create theme header
-        theme_header = Adw.HeaderBar(
-            show_start_title_buttons=False, show_end_title_buttons=False
-        )
-        # Replace WindowTitle with simple Label
-        theme_label = Gtk.Label(label=_("Themes"))
-        theme_label.set_hexpand(True)  # Allow horizontal expansion
-        theme_label.set_halign(Gtk.Align.CENTER)  # Center the text
-        theme_header.set_title_widget(theme_label)
+        # Create theme header with automatic decoration handling
+        theme_header = Adw.HeaderBar()
+        # Use Adw.WindowTitle for proper styling
+        theme_title = Adw.WindowTitle(title=_("Themes"), subtitle="")
+        theme_header.set_title_widget(theme_title)
         theme_toolbar_view.add_top_bar(theme_header)
 
         # Theme content area
@@ -117,13 +113,11 @@ class ThemesWindow(Adw.ApplicationWindow):
         desktop_toolbar_view = Adw.ToolbarView()
         desktop_toolbar_view.add_css_class("desktop-section")
 
-        # Create desktop header
+        # Create desktop header with automatic decoration handling
         desktop_header = Adw.HeaderBar()
-        # Replace WindowTitle with simple Label
-        desktop_label = Gtk.Label(label=_("Desktop"))
-        desktop_label.set_hexpand(True)  # Allow horizontal expansion
-        desktop_label.set_halign(Gtk.Align.CENTER)  # Center the text
-        desktop_header.set_title_widget(desktop_label)
+        # Use Adw.WindowTitle for proper styling
+        desktop_title = Adw.WindowTitle(title=_("Desktop"), subtitle="")
+        desktop_header.set_title_widget(desktop_title)
         desktop_toolbar_view.add_top_bar(desktop_header)
 
         # Desktop content area
@@ -286,8 +280,8 @@ class ThemesWindow(Adw.ApplicationWindow):
                 heading=_("Confirm Theme Change"),
                 body=_("Do you want to apply the selected theme again?"),
             )
-            dialog.add_response("cancel", _("No"))
-            dialog.add_response("apply", _("Yes"))
+            dialog.add_response("cancel", _("Cancel"))
+            dialog.add_response("apply", _("Apply"))
             dialog.set_default_response("cancel")
             dialog.set_response_appearance("apply", Adw.ResponseAppearance.SUGGESTED)
             dialog.connect("response", self._on_theme_confirm_response)
@@ -302,8 +296,8 @@ class ThemesWindow(Adw.ApplicationWindow):
                     theme_name.replace("-", " ")
                 ),
             )
-            dialog.add_response("cancel", _("No"))
-            dialog.add_response("apply", _("Yes"))
+            dialog.add_response("cancel", _("Cancel"))
+            dialog.add_response("apply", _("Apply"))
             dialog.set_default_response("cancel")
             dialog.set_response_appearance("apply", Adw.ResponseAppearance.SUGGESTED)
             dialog.connect("response", self._on_theme_confirm_response)
@@ -325,8 +319,8 @@ class ThemesWindow(Adw.ApplicationWindow):
                 heading=_("Confirm Desktop Change"),
                 body=_("Do you want to reapply a clean configuration of that desktop?"),
             )
-            dialog.add_response("cancel", _("No"))
-            dialog.add_response("apply", _("Yes"))
+            dialog.add_response("cancel", _("Cancel"))
+            dialog.add_response("apply", _("Apply"))
             dialog.set_default_response("cancel")
             dialog.set_response_appearance("apply", Adw.ResponseAppearance.SUGGESTED)
             dialog.connect("response", self._on_desktop_confirm_response)
