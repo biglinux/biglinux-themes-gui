@@ -52,19 +52,17 @@ msgstr "테마 변경 확인"
 msgid "Do you want to apply the selected theme again?"
 msgstr "선택한 테마를 다시 적용하시겠습니까?"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 289
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 305
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 328
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
 #: NEEDS WORK
-msgid "No"
-msgstr "아니요"
+msgid "Cancel"
+msgstr "취소"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 290
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 306
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 329
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 284
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 323
 #: NEEDS WORK
-msgid "Yes"
-msgstr "죄송합니다."
+msgid "Apply"
+msgstr "적용하다"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
 #: NEEDS WORK
@@ -92,11 +90,6 @@ msgid ""
 "You've used this desktop before, do you want to restore your customization or use the original "
 "configuration?"
 msgstr "이 데스크탑을 이전에 사용한 적이 있습니다. 사용자 지정을 복원하시겠습니까, 아니면 원래 구성을 사용하시겠습니까?"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "취소"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 #: NEEDS WORK

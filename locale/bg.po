@@ -52,19 +52,17 @@ msgstr "Потвърдете промяната на темата"
 msgid "Do you want to apply the selected theme again?"
 msgstr "Искате ли да приложите отново избраната тема?"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 289
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 305
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 328
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
 #: NEEDS WORK
-msgid "No"
-msgstr "Не"
+msgid "Cancel"
+msgstr "Отмяна"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 290
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 306
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 329
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 284
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 323
 #: NEEDS WORK
-msgid "Yes"
-msgstr "Да"
+msgid "Apply"
+msgstr "Приложи"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
 #: NEEDS WORK
@@ -94,11 +92,6 @@ msgid ""
 msgstr ""
 "Вие сте използвали този работен плот преди, искате ли да възстановите вашата персонализация или да "
 "използвате оригиналната конфигурация?"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "Отмяна"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 #: NEEDS WORK

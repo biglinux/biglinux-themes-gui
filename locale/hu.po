@@ -52,19 +52,17 @@ msgstr "Téma váltás megerősítése"
 msgid "Do you want to apply the selected theme again?"
 msgstr "Szeretné újra alkalmazni a kiválasztott témát?"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 289
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 305
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 328
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
 #: NEEDS WORK
-msgid "No"
-msgstr "Nem"
+msgid "Cancel"
+msgstr "Mégse"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 290
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 306
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 329
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 284
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 323
 #: NEEDS WORK
-msgid "Yes"
-msgstr "Igen"
+msgid "Apply"
+msgstr "Alkalmazás"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
 #: NEEDS WORK
@@ -94,11 +92,6 @@ msgid ""
 msgstr ""
 "Már használtad ezt az asztalt, szeretnéd visszaállítani a testreszabásaidat, vagy az eredeti "
 "konfigurációt szeretnéd használni?"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "Mégse"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 #: NEEDS WORK
