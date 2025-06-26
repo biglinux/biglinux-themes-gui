@@ -15,16 +15,6 @@ msgstr  "Project-Id-Version: biglinux-themes-gui\n"
         "Content-Transfer-Encoding: 8bit\n"
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-msgid   "Click to switch to the {} desktop environment"
-msgstr  ""
-
-#
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-msgid   "Click to apply the {} theme"
-msgstr  ""
-
-#
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
 msgid   "BigLinux Themes"
 msgstr  ""
@@ -105,4 +95,14 @@ msgstr  ""
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 546
 msgid   "The settings have been changed. To apply them throughout the system, "
         "log off and log in again."
+msgstr  ""
+
+#
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+msgid   "Click to switch to the {} desktop environment"
+msgstr  ""
+
+#
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+msgid   "Click to apply the {} theme"
 msgstr  ""

@@ -16,16 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
-msgid "Click to switch to the {} desktop environment"
-msgstr "Κάντε κλικ για να αλλάξετε στο {} περιβάλλον επιφάνειας εργασίας"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "Κάντε κλικ για να εφαρμόσετε το θέμα {}"
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
 #: NEEDS WORK
 msgid "BigLinux Themes"
@@ -102,6 +92,10 @@ msgstr ""
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
@@ -149,6 +143,8 @@ msgstr ""
 #: NEEDS WORK
 #: NEEDS WORK
 #: NEEDS WORK
+#: NEEDS WORK
+#: NEEDS WORK
 msgid "Restore"
 msgstr "Αποκατάσταση"
 # 
@@ -156,3 +152,13 @@ msgstr "Αποκατάσταση"
 #: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr "Οι ρυθμίσεις έχουν αλλάξει. Για να εφαρμοστούν σε όλο το σύστημα, αποσυνδεθείτε και συνδεθείτε ξανά."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+#: NEEDS WORK
+msgid "Click to switch to the {} desktop environment"
+msgstr "Κάντε κλικ για να αλλάξετε στο {} περιβάλλον επιφάνειας εργασίας"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+#: NEEDS WORK
+msgid "Click to apply the {} theme"
+msgstr "Κάντε κλικ για να εφαρμόσετε το θέμα {}"

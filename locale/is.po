@@ -16,16 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
-msgid "Click to switch to the {} desktop environment"
-msgstr "Smelltu til að skipta yfir í {} skrifborðsumhverfið"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "Smelltu til að beita {} þema."
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
 #: NEEDS WORK
 msgid "BigLinux Themes"
@@ -117,6 +107,10 @@ msgstr ""
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
@@ -164,6 +158,8 @@ msgstr ""
 #: NEEDS WORK
 #: NEEDS WORK
 #: NEEDS WORK
+#: NEEDS WORK
+#: NEEDS WORK
 msgid "Restore"
 msgstr "Endurheimta"
 # 
@@ -173,3 +169,13 @@ msgid "The settings have been changed. To apply them throughout the system, log 
 msgstr ""
 "Stillingar hafa verið breyttar. Til að beita þeim um allt kerfið, skráðu þig út og skráðu þig inn "
 "aftur."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+#: NEEDS WORK
+msgid "Click to switch to the {} desktop environment"
+msgstr "Smelltu til að skipta yfir í {} skrifborðsumhverfið"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+#: NEEDS WORK
+msgid "Click to apply the {} theme"
+msgstr "Smelltu til að beita {} þema."

@@ -16,16 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
-msgid "Click to switch to the {} desktop environment"
-msgstr "点击切换到{}桌面环境"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "点击应用{}主题"
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
 #: NEEDS WORK
 msgid "BigLinux Themes"
@@ -155,6 +145,10 @@ msgstr "您之前使用过此桌面，您想恢复您的自定义设置还是使
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
@@ -202,6 +196,8 @@ msgstr "您之前使用过此桌面，您想恢复您的自定义设置还是使
 #: NEEDS WORK
 #: NEEDS WORK
 #: NEEDS WORK
+#: NEEDS WORK
+#: NEEDS WORK
 msgid "Restore"
 msgstr "恢复"
 # 
@@ -209,3 +205,13 @@ msgstr "恢复"
 #: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr "设置已更改。要在整个系统中应用它们，请注销并重新登录。"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+#: NEEDS WORK
+msgid "Click to switch to the {} desktop environment"
+msgstr "点击切换到{}桌面环境"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+#: NEEDS WORK
+msgid "Click to apply the {} theme"
+msgstr "点击应用{}主题"

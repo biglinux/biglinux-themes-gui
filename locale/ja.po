@@ -16,16 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
-msgid "Click to switch to the {} desktop environment"
-msgstr "{}デスクトップ環境に切り替えるにはクリックしてください"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "{}テーマを適用するにはクリックしてください。"
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
 #: NEEDS WORK
 msgid "BigLinux Themes"
@@ -93,6 +83,12 @@ msgstr "以前このデスクトップを使用したことがあります。カ
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 #: NEEDS WORK
+msgid "Original"
+msgstr "オリジナル"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 # 
@@ -147,6 +143,8 @@ msgstr "以前このデスクトップを使用したことがあります。カ
 #: NEEDS WORK
 #: NEEDS WORK
 #: NEEDS WORK
+#: NEEDS WORK
+#: NEEDS WORK
 msgid "Restore"
 msgstr "復元"
 # 
@@ -154,3 +152,13 @@ msgstr "復元"
 #: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr "設定が変更されました。システム全体に適用するには、ログオフして再度ログインしてください。"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+#: NEEDS WORK
+msgid "Click to switch to the {} desktop environment"
+msgstr "{}デスクトップ環境に切り替えるにはクリックしてください"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+#: NEEDS WORK
+msgid "Click to apply the {} theme"
+msgstr "{}テーマを適用するにはクリックしてください。"

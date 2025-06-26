@@ -16,16 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
-msgid "Click to switch to the {} desktop environment"
-msgstr "לחץ כדי לעבור לסביבת שולחן העבודה {}"
-# 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "לחץ כדי להחיל את ערכת הנושא {}"
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
 #: NEEDS WORK
 msgid "BigLinux Themes"
@@ -100,6 +90,10 @@ msgstr "שימושת בשולחן העבודה הזה בעבר, האם אתה ר
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
@@ -147,6 +141,8 @@ msgstr "שימושת בשולחן העבודה הזה בעבר, האם אתה ר
 #: NEEDS WORK
 #: NEEDS WORK
 #: NEEDS WORK
+#: NEEDS WORK
+#: NEEDS WORK
 msgid "Restore"
 msgstr "שחזר"
 # 
@@ -154,3 +150,13 @@ msgstr "שחזר"
 #: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr "ההגדרות שונו. כדי ליישם אותן בכל המערכת, התנתק והתחבר שוב."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+#: NEEDS WORK
+msgid "Click to switch to the {} desktop environment"
+msgstr "לחץ כדי לעבור לסביבת שולחן העבודה {}"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+#: NEEDS WORK
+msgid "Click to apply the {} theme"
+msgstr "לחץ כדי להחיל את ערכת הנושא {}"
