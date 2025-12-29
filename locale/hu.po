@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the biglinux-themes-gui package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-themes-gui\n"
@@ -17,75 +16,61 @@ msgstr ""
 "X-Generator: attranslate\n"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
 msgid "Click to switch to the {} desktop environment"
 msgstr "Kattintson a {} asztali környezetre való váltáshoz"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "Kattintson a {} téma alkalmazásához"
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
-#: NEEDS WORK
 msgid "BigLinux Themes"
 msgstr "BigLinux Témák"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 87
-#: NEEDS WORK
 msgid "Themes"
 msgstr "Témák"
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 140
+msgid "Enhanced Contrast"
+msgstr "Fokozott Kontraszt"
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 123
-#: NEEDS WORK
 msgid "Desktop"
 msgstr "Asztal"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 286
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
-#: NEEDS WORK
 msgid "Confirm Theme Change"
 msgstr "Téma váltás megerősítése"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 287
-#: NEEDS WORK
 msgid "Do you want to apply the selected theme again?"
 msgstr "Szeretné újra alkalmazni a kiválasztott témát?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
-#: NEEDS WORK
 msgid "Cancel"
 msgstr "Mégse"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 284
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 323
-#: NEEDS WORK
 msgid "Apply"
 msgstr "Alkalmazás"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
-#: NEEDS WORK
 msgid "Do you want to change the theme to {}?"
 msgstr "Szeretnéd megváltoztatni a témát erre: {}?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 325
-#: NEEDS WORK
 msgid "Confirm Desktop Change"
 msgstr "Asztali Változtatás Megerősítése"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 326
-#: NEEDS WORK
 msgid "Do you want to reapply a clean configuration of that desktop?"
 msgstr "Szeretnéd újraalkalmazni a tiszta konfigurációt azon az asztalon?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
-#: NEEDS WORK
 msgid "Configuration"
 msgstr "Beállítások"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 346
-#: NEEDS WORK
 msgid ""
 "You've used this desktop before, do you want to restore your customization or use the original "
 "configuration?"
@@ -94,18 +79,48 @@ msgstr ""
 "konfigurációt szeretnéd használni?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
-#: NEEDS WORK
 msgid "Original"
 msgstr "Eredeti"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 351
-#: NEEDS WORK
 msgid "Restore"
 msgstr "Visszaállítás"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 552
-#: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr ""
 "A beállítások megváltoztak. Azok rendszer szintű alkalmazásához jelentkezzen ki, majd jelentkezzen "
 "be újra."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 631
+msgid "Display Settings"
+msgstr "Kijelzőbeállítások"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 632
+msgid "This will modify the display settings. Do you want to continue or configure manually?"
+msgstr "Ez módosítani fogja a megjelenítési beállításokat. Folytatni szeretné vagy manuálisan konfigurálni?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 635
+msgid "Configure Manually"
+msgstr "Manuális konfigurálás"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 674
+msgid "Could not open display settings"
+msgstr "Nem sikerült megnyitni a kijelzőbeállításokat."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast enabled"
+msgstr "Fokozott kontraszt engedélyezve"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast disabled"
+msgstr "Fokozott kontraszt letiltva"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 703
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 706
+msgid "Error applying display settings"
+msgstr "Hiba a megjelenítési beállítások alkalmazásakor"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+msgid "Click to apply the {} theme"
+msgstr "Kattintson a {} téma alkalmazásához"

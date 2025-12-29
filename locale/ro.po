@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the biglinux-themes-gui package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-themes-gui\n"
@@ -17,75 +16,61 @@ msgstr ""
 "X-Generator: attranslate\n"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
 msgid "Click to switch to the {} desktop environment"
 msgstr "Faceți clic pentru a comuta la mediul desktop {}"
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "Faceți clic pentru a aplica tema {}"
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
-#: NEEDS WORK
 msgid "BigLinux Themes"
 msgstr "Teme BigLinux"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 87
-#: NEEDS WORK
 msgid "Themes"
 msgstr "Teme"
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 140
+msgid "Enhanced Contrast"
+msgstr "Contrast Îmbunătățit"
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 123
-#: NEEDS WORK
 msgid "Desktop"
 msgstr "Desktop"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 286
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
-#: NEEDS WORK
 msgid "Confirm Theme Change"
 msgstr "Confirmare schimbare temă"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 287
-#: NEEDS WORK
 msgid "Do you want to apply the selected theme again?"
 msgstr "Vrei să aplici din nou tema selectată?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
-#: NEEDS WORK
 msgid "Cancel"
 msgstr "Anulează"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 284
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 323
-#: NEEDS WORK
 msgid "Apply"
 msgstr "Aplică"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
-#: NEEDS WORK
 msgid "Do you want to change the theme to {}?"
 msgstr "Vrei să schimbi tema în {}?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 325
-#: NEEDS WORK
 msgid "Confirm Desktop Change"
 msgstr "Confirmare schimbare desktop"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 326
-#: NEEDS WORK
 msgid "Do you want to reapply a clean configuration of that desktop?"
 msgstr "Vrei să reaplici o configurație curată a acelui desktop?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
-#: NEEDS WORK
 msgid "Configuration"
 msgstr "Configurare"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 346
-#: NEEDS WORK
 msgid ""
 "You've used this desktop before, do you want to restore your customization or use the original "
 "configuration?"
@@ -94,7 +79,6 @@ msgstr ""
 "configurația originală?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
-#: NEEDS WORK
 msgid "Original"
 msgstr "Original"
 # 
@@ -123,25 +107,44 @@ msgstr "Original"
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 351
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
 msgid "Restore"
 msgstr "Restaurare"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 552
-#: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr ""
 "Setările au fost modificate. Pentru a le aplica în întregul sistem, deconectați-vă și conectați-vă "
 "din nou."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 631
+msgid "Display Settings"
+msgstr "Setări de afișare"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 632
+msgid "This will modify the display settings. Do you want to continue or configure manually?"
+msgstr "Aceasta va modifica setările de afișare. Doriți să continuați sau să configurați manual?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 635
+msgid "Configure Manually"
+msgstr "Configurează manual"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 674
+msgid "Could not open display settings"
+msgstr "Nu s-au putut deschide setările de afișare."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast enabled"
+msgstr "Contrast îmbunătățit activat"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast disabled"
+msgstr "Contrast îmbunătățit dezactivat"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 703
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 706
+msgid "Error applying display settings"
+msgstr "Eroare la aplicarea setărilor de afișare"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+msgid "Click to apply the {} theme"
+msgstr "Faceți clic pentru a aplica tema {}"

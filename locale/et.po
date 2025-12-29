@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the biglinux-themes-gui package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-themes-gui\n"
@@ -16,66 +15,62 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+msgid "Click to switch to the {} desktop environment"
+msgstr "Klõpsa, et vahetada {} töölaua keskkonda"
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
-#: NEEDS WORK
 msgid "BigLinux Themes"
 msgstr "BigLinuxi teemad"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 87
-#: NEEDS WORK
 msgid "Themes"
 msgstr "Teemad"
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 140
+msgid "Enhanced Contrast"
+msgstr "Täpsem kontrastsus"
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 123
-#: NEEDS WORK
 msgid "Desktop"
 msgstr "Töölaua"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 286
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
-#: NEEDS WORK
 msgid "Confirm Theme Change"
 msgstr "Kinnita teema muutmine"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 287
-#: NEEDS WORK
 msgid "Do you want to apply the selected theme again?"
 msgstr "Kas soovite valitud teemat uuesti rakendada?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
-#: NEEDS WORK
 msgid "Cancel"
 msgstr "Tühista"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 284
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 323
-#: NEEDS WORK
 msgid "Apply"
 msgstr "Kinnita"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
-#: NEEDS WORK
 msgid "Do you want to change the theme to {}?"
 msgstr "Kas soovite teemat muuta {}?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 325
-#: NEEDS WORK
 msgid "Confirm Desktop Change"
 msgstr "Kinnita töölaua muutus"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 326
-#: NEEDS WORK
 msgid "Do you want to reapply a clean configuration of that desktop?"
 msgstr "Kas soovite sellele töölauale uuesti puhta konfiguratsiooni rakendada?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
-#: NEEDS WORK
 msgid "Configuration"
 msgstr "Konfiguratsioon"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 346
-#: NEEDS WORK
 msgid ""
 "You've used this desktop before, do you want to restore your customization or use the original "
 "configuration?"
@@ -83,8 +78,11 @@ msgstr ""
 "Oled olete seda töölauad varem kasutanud, kas soovite taastada oma kohandused või kasutada "
 "originaalset konfiguratsiooni?"
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
-#: NEEDS WORK
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
 # 
@@ -125,40 +123,42 @@ msgstr ""
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 351
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
-#: NEEDS WORK
 msgid "Restore"
 msgstr "Taasta"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 552
-#: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr "Seaded on muudetud. Nende rakendamiseks kogu süsteemis logige välja ja logige uuesti sisse."
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
-msgid "Click to switch to the {} desktop environment"
-msgstr "Klõpsa, et vahetada {} töölaua keskkonda"
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 631
+msgid "Display Settings"
+msgstr "Kuva seaded"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 632
+msgid "This will modify the display settings. Do you want to continue or configure manually?"
+msgstr "See muudab kuvamise seadistusi. Kas soovite jätkata või konfigureerida käsitsi?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 635
+msgid "Configure Manually"
+msgstr "Konfigureeri käsitsi"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 674
+msgid "Could not open display settings"
+msgstr "Ei õnnestunud avada kuvaseadeid."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast enabled"
+msgstr "Täpsem kontrastsus lubatud"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast disabled"
+msgstr "Täpne kontrast keelatud"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 703
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 706
+msgid "Error applying display settings"
+msgstr "Vea seadete rakendamisel tekkis viga"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
 msgid "Click to apply the {} theme"
 msgstr "Klõpsa, et rakendada {} teemat"

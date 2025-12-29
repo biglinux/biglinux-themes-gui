@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the biglinux-themes-gui package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-themes-gui\n"
@@ -17,75 +16,61 @@ msgstr ""
 "X-Generator: attranslate\n"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
-#: NEEDS WORK
 msgid "Click to switch to the {} desktop environment"
 msgstr "Щракнете, за да превключите на {} работната среда."
 # 
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
-#: NEEDS WORK
-msgid "Click to apply the {} theme"
-msgstr "Щракнете, за да приложите темата {}"
-# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 24
-#: NEEDS WORK
 msgid "BigLinux Themes"
 msgstr "BigLinux Теми"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 87
-#: NEEDS WORK
 msgid "Themes"
 msgstr "Темите"
 # 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 140
+msgid "Enhanced Contrast"
+msgstr "Подобрена контрастност"
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 123
-#: NEEDS WORK
 msgid "Desktop"
 msgstr "Работен плот"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 286
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
-#: NEEDS WORK
 msgid "Confirm Theme Change"
 msgstr "Потвърдете промяната на темата"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 287
-#: NEEDS WORK
 msgid "Do you want to apply the selected theme again?"
 msgstr "Искате ли да приложите отново избраната тема?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 349
-#: NEEDS WORK
 msgid "Cancel"
 msgstr "Отмяна"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 284
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 300
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 323
-#: NEEDS WORK
 msgid "Apply"
 msgstr "Приложи"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 301
-#: NEEDS WORK
 msgid "Do you want to change the theme to {}?"
 msgstr "Искате ли да промените темата на {}?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 325
-#: NEEDS WORK
 msgid "Confirm Desktop Change"
 msgstr "Потвърдете промяната на работния плот"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 326
-#: NEEDS WORK
 msgid "Do you want to reapply a clean configuration of that desktop?"
 msgstr "Искате ли да приложите отново чиста конфигурация на този работен плот?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 344
-#: NEEDS WORK
 msgid "Configuration"
 msgstr "Конфигурация"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 346
-#: NEEDS WORK
 msgid ""
 "You've used this desktop before, do you want to restore your customization or use the original "
 "configuration?"
@@ -94,16 +79,46 @@ msgstr ""
 "използвате оригиналната конфигурация?"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 350
-#: NEEDS WORK
 msgid "Original"
 msgstr "Оригинал"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 351
-#: NEEDS WORK
 msgid "Restore"
 msgstr "Възстанови"
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 552
-#: NEEDS WORK
 msgid "The settings have been changed. To apply them throughout the system, log off and log in again."
 msgstr "Настройките бяха променени. За да ги приложите в цялата система, излезте и влезте отново."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 631
+msgid "Display Settings"
+msgstr "Настройки на дисплея"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 632
+msgid "This will modify the display settings. Do you want to continue or configure manually?"
+msgstr "Това ще промени настройките на дисплея. Искате ли да продължите или да конфигурирате ръчно?"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 635
+msgid "Configure Manually"
+msgstr "Конфигуриране ръчно"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 674
+msgid "Could not open display settings"
+msgstr "Не можа да се отвори настройките на дисплея."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast enabled"
+msgstr "Активиран подобрен контраст"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+msgid "Enhanced contrast disabled"
+msgstr "Подобреният контраст е деактивиран."
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 703
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 706
+msgid "Error applying display settings"
+msgstr "Грешка при прилагане на настройки за показване"
+# 
+# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+msgid "Click to apply the {} theme"
+msgstr "Щракнете, за да приложите темата {}"
