@@ -4,6 +4,8 @@ Implements the main application window and UI functionality.
 """
 
 import gi
+import os
+import subprocess
 
 gi.require_version("Gtk", "4.0")
 gi.require_version("Adw", "1")
@@ -58,6 +60,19 @@ class ThemesWindow(Adw.ApplicationWindow):
             .desktop-section {
             background-color: var(--view-bg-color);
             }
+
+            /* Change background of swith for change contrast option to ICC */
+            .boxed-list {
+            border-radius: 0;
+            box-shadow: none;
+            margin-left: -20px;
+            margin-right: -11px;
+            margin-bottom: -20px;
+            padding-left: 15px;
+            padding-right: 15px;
+            padding-bottom: 5px;
+            background-color: var(--secondary-sidebar-backdrop-color);
+            }
         """
         css_provider.load_from_data(css)
         Gtk.StyleContext.add_provider_for_display(
@@ -105,6 +120,32 @@ class ThemesWindow(Adw.ApplicationWindow):
         self.theme_flowbox.set_selection_mode(Gtk.SelectionMode.NONE)
         self.theme_flowbox.connect("child-activated", self._on_theme_selected)
         theme_scroll.set_child(self.theme_flowbox)
+
+        # Add Enhanced Contrast switch at the bottom of sidebar using Adwaita components
+        # Only show if running on Wayland (ICC profile via kscreen-doctor requires Wayland)
+        self.contrast_prefs_group = None
+        self.contrast_switch_row = None
+        self._contrast_handler_id = None
+        self._pending_contrast_state = None
+        self._original_contrast_state = None
+        
+        if self._is_wayland_session():
+            self.contrast_prefs_group = Adw.PreferencesGroup()
+            self.contrast_prefs_group.set_margin_start(0)
+            self.contrast_prefs_group.set_margin_end(0)
+            self.contrast_prefs_group.set_margin_top(12)
+            self.contrast_prefs_group.set_margin_bottom(8)
+
+            self.contrast_switch_row = Adw.SwitchRow()
+            self.contrast_switch_row.set_title(_("Enhanced Contrast"))
+            # Get initial state before connecting the signal to prevent triggering the dialog
+            initial_icc_state = self._get_icc_profile_status()
+            self.contrast_switch_row.set_active(initial_icc_state)
+            # Store handler ID to allow blocking/unblocking the signal
+            self._contrast_handler_id = self.contrast_switch_row.connect("notify::active", self._on_contrast_switch_toggled)
+
+            self.contrast_prefs_group.add(self.contrast_switch_row)
+            theme_box.append(self.contrast_prefs_group)
 
         theme_toolbar_view.set_content(theme_box)
         self.split_view.set_sidebar(theme_toolbar_view)
@@ -555,3 +596,111 @@ class ThemesWindow(Adw.ApplicationWindow):
         toast.set_timeout(5)
         toast.add_css_class("error")
         self.toast_overlay.add_toast(toast)
+
+    def _is_wayland_session(self):
+        """Check if the current session is running on Wayland."""
+        session_type = os.environ.get("XDG_SESSION_TYPE", "").lower()
+        return session_type == "wayland"
+
+    def _get_icc_profile_status(self):
+        """Check if ICC profile is currently active."""
+        try:
+            result = subprocess.run(
+                ["icc_profile_apply", "status"],
+                capture_output=True,
+                text=True,
+                check=False
+            )
+            # Check if any display has ACTIVE status
+            return "Status: ACTIVE" in result.stdout
+        except Exception as e:
+            print(f"Error checking ICC profile status: {e}")
+            return False
+
+    def _on_contrast_switch_toggled(self, switch, pspec):
+        """Handle enhanced contrast switch toggle."""
+        # Store the pending state (get actual boolean value from switch)
+        # and the current real state from the system
+        new_state = switch.get_active()
+        self._pending_contrast_state = new_state
+        self._original_contrast_state = self._get_icc_profile_status()
+
+        # Show confirmation dialog
+        dialog = Adw.MessageDialog(
+            transient_for=self,
+            heading=_("Display Settings"),
+            body=_("This will modify the display settings. Do you want to continue or configure manually?"),
+        )
+        dialog.add_response("cancel", _("Cancel"))
+        dialog.add_response("manual", _("Configure Manually"))
+        dialog.add_response("apply", _("Apply"))
+        dialog.set_default_response("cancel")
+        dialog.set_response_appearance("apply", Adw.ResponseAppearance.SUGGESTED)
+        dialog.connect("response", self._on_contrast_dialog_response)
+        dialog.present()
+
+        # Return True to prevent the switch state from changing immediately
+        return True
+
+    def _on_contrast_dialog_response(self, dialog, response):
+        """Handle response from contrast confirmation dialog."""
+        # Close the dialog first
+        dialog.set_visible(False)
+
+        if response == "apply":
+            # Apply the ICC profile change
+            self._apply_icc_profile(self._pending_contrast_state)
+            # Block signal handler to prevent dialog from reopening
+            self.contrast_switch_row.handler_block(self._contrast_handler_id)
+            # Update switch to the new state
+            self.contrast_switch_row.set_active(self._pending_contrast_state)
+            # Unblock signal handler
+            self.contrast_switch_row.handler_unblock(self._contrast_handler_id)
+        elif response == "manual":
+            # Block signal handler to prevent dialog from reopening
+            self.contrast_switch_row.handler_block(self._contrast_handler_id)
+            # Restore switch to the original real state before opening settings
+            self.contrast_switch_row.set_active(self._original_contrast_state)
+            # Unblock signal handler
+            self.contrast_switch_row.handler_unblock(self._contrast_handler_id)
+            # Open KDE display configuration modules
+            try:
+                subprocess.Popen(
+                    ["kcmshell6", "kcm_nightlight", "kcm_kwinscreenedges", "kcm_kscreen"],
+                    start_new_session=True
+                )
+            except Exception as e:
+                print(f"Error opening display settings: {e}")
+                self._show_error_toast(_("Could not open display settings"))
+        else:  # cancel
+            # Block signal handler to prevent dialog from reopening
+            self.contrast_switch_row.handler_block(self._contrast_handler_id)
+            # Restore switch to the original real state
+            self.contrast_switch_row.set_active(self._original_contrast_state)
+            # Unblock signal handler
+            self.contrast_switch_row.handler_unblock(self._contrast_handler_id)
+
+        self._pending_contrast_state = None
+        self._original_contrast_state = None
+
+    def _apply_icc_profile(self, enable):
+        """Apply or remove ICC profile for enhanced contrast."""
+        action = "enable" if enable else "disable"
+        try:
+            result = subprocess.run(
+                ["icc_profile_apply", action],
+                capture_output=True,
+                text=True,
+                check=False
+            )
+            if result.returncode == 0:
+                status = _("Enhanced contrast enabled") if enable else _("Enhanced contrast disabled")
+                toast = Adw.Toast.new(status)
+                toast.set_timeout(3)
+                self.toast_overlay.add_toast(toast)
+            else:
+                print(f"ICC profile apply error: {result.stderr}")
+                self._show_error_toast(_("Error applying display settings"))
+        except Exception as e:
+            print(f"Error applying ICC profile: {e}")
+            self._show_error_toast(_("Error applying display settings"))
