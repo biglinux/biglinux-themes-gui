@@ -78,6 +78,10 @@ msgstr ""
 "Używałeś tego pulpitu wcześniej, czy chcesz przywrócić swoje dostosowania, czy użyć oryginalnej "
 "konfiguracji?"
 # 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385

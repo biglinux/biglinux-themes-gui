@@ -134,6 +134,10 @@ msgstr ""
 "Você já usou esta área de trabalho antes, deseja restaurar sua personalização ou usar a "
 "configuração original?"
 # 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385

@@ -78,6 +78,10 @@ msgstr ""
 "Olet käyttänyt tätä työpöytää aiemmin, haluatko palauttaa mukautuksesi vai käyttää alkuperäistä "
 "asetusta?"
 # 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385

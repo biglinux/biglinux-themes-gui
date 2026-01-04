@@ -106,6 +106,10 @@ msgstr ""
 "Вы уже использовали этот рабочий стол, хотите восстановить свою настройку или использовать "
 "оригинальную конфигурацию?"
 # 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385

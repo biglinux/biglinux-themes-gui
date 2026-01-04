@@ -78,6 +78,10 @@ msgstr ""
 "Daha önce bu masaüstünü kullandınız, özelleştirmenizi geri yüklemek ister misiniz yoksa orijinal "
 "yapılandırmayı mı kullanmak istersiniz?"
 # 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385

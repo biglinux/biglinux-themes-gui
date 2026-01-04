@@ -78,6 +78,10 @@ msgstr ""
 "Sie haben diesen Desktop zuvor verwendet. Möchten Sie Ihre Anpassungen wiederherstellen oder die "
 "ursprüngliche Konfiguration verwenden?"
 # 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
+# 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
 # 
 # File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385

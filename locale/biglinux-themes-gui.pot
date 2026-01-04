@@ -15,138 +15,138 @@ msgstr  "Project-Id-Version: biglinux-themes-gui\n"
         "Content-Transfer-Encoding: 8bit\n"
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/desktop_manager.py, line: 101
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/desktop_manager.py, line: 101
 msgid   "Click to switch to the {} desktop environment"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 26
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 26
 msgid   "BigLinux Themes"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 100
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 100
 msgid   "Themes"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 140
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 140
 msgid   "Enhanced Contrast"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 160
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 160
 msgid   "Desktop"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 321
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 335
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 321
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 335
 msgid   "Confirm Theme Change"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 322
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 322
 msgid   "Do you want to apply the selected theme again?"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 324
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 340
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 363
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 384
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 634
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 324
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 340
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 363
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 384
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 634
 msgid   "Cancel"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 325
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 341
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 364
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 636
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 325
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 341
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 364
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 636
 msgid   "Apply"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 336
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 336
 msgid   "Do you want to change the theme to {}?"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 360
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 360
 msgid   "Confirm Desktop Change"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 361
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 361
 msgid   "Do you want to reapply a clean configuration of that desktop?"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 379
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 379
 msgid   "Configuration"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 381
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 381
 msgid   "You've used this desktop before, do you want to restore your "
         "customization or use the original configuration?"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 385
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 385
 msgid   "Original"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 386
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 386
 msgid   "Restore"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 587
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 587
 msgid   "The settings have been changed. To apply them throughout the system, "
         "log off and log in again."
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 631
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 631
 msgid   "Display Settings"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 632
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 632
 msgid   "This will modify the display settings. Do you want to continue or "
         "configure manually?"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 635
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 635
 msgid   "Configure Manually"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 674
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 674
 msgid   "Could not open display settings"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 697
 msgid   "Enhanced contrast enabled"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 697
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 697
 msgid   "Enhanced contrast disabled"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 703
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/window.py, line: 706
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 703
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/window.py, line: 706
 msgid   "Error applying display settings"
 msgstr  ""
 
 #
-# File: biglinux-themes-gui/usr/share/bigbashview/apps/biglinux-themes-gui/theme_manager.py, line: 78
+# File: biglinux-themes-gui/usr/share/biglinux/biglinux-themes-gui/theme_manager.py, line: 78
 msgid   "Click to apply the {} theme"
 msgstr  ""
